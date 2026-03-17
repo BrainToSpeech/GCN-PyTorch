@@ -52,4 +52,4 @@ The objective is to classify each publication into its corresponding research to
 > *Semi-Supervised Classification with Graph Convolutional Networks.*  
 > ICLR 2017. [[Paper Link]](https://arxiv.org/abs/1609.02907)
 
----
+-----
