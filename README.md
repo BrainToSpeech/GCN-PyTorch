@@ -36,7 +36,7 @@ pip install -r requirements.txt
 | **Number of Edges** | 5,429 |
 | **Number of Features per Node** | 1,433 |
 | **Number of of Classes** | 7 |
-| **Graph Type** | Citation Network |
+| **Graph Type** | Citation Network | 
  
 -----
  
