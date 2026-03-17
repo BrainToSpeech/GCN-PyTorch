@@ -37,7 +37,7 @@ pip install -r requirements.txt
 | **Number of Features per Node** | 1,433 |
 | **Number of of Classes** | 7 |
 | **Graph Type** | Citation Network |
-
+ 
 -----
 
 ## Overview
