@@ -47,7 +47,7 @@ The objective is to classify each publication into its corresponding research to
 
 ----- 
 
-## Reference
+## Reference 
 
 > Thomas N. Kipf and Max Welling.  
 > *Semi-Supervised Classification with Graph Convolutional Networks.*  
