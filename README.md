@@ -26,7 +26,7 @@ pip install -r requirements.txt
   The Cora dataset contains 2,708 papers classified into 7 research categories.
 
 -----
-
+ 
 ## Dataset Summary
 
 | Property | Description |
