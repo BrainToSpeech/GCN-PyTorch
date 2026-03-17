@@ -39,7 +39,7 @@ pip install -r requirements.txt
 | **Graph Type** | Citation Network |
  
 -----
-
+ 
 ## Overview 
 
 This project demonstrates how **Graph Convolutional Networks (GCNs)** can learn node representations by leveraging both **graph structure** and **node features**.  
