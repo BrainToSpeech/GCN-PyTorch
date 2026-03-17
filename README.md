@@ -44,7 +44,7 @@ pip install -r requirements.txt
 This project demonstrates how **Graph Convolutional Networks (GCNs)** can learn node representations by leveraging both **graph structure** and **node features**.  
 The objective is to classify each publication into its corresponding research topic based on citation relationships.
 
----
+-----
 
 ## Reference
 
