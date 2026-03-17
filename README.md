@@ -23,7 +23,7 @@ pip install -r requirements.txt
 - **Node Features:** Word vectors  
   Each publication is represented by a 1,433-dimensional bag-of-words feature vector.
 
-- **Labels (7 Classes):** Publication subjects  
+- **Labels (7 Classes):** Publication subjects   
   The Cora dataset contains 2,708 papers classified into 7 research categories.
 
 ----- 
