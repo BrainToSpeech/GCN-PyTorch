@@ -9,7 +9,7 @@ You can easily install them using the provided 'requirements.txt' file:
 pip install -r requirements.txt
 ```
 > This code is tested with Python 3.11.9
----
+-----
 
 ## Dataset: Cora
 
