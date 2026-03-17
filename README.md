@@ -12,7 +12,7 @@ pip install -r requirements.txt
 -----
 
 ## Dataset: Cora
-
+ 
 - **Nodes:** Scientific publications  
   Each node represents an academic paper.
 
