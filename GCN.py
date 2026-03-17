@@ -28,6 +28,7 @@ class GraphConvolution(nn.Module):
         return out
 
 
+
 class NodeClassificationGCNN(nn.Module):
 
     def __init__(self, feature_num, node_representation_dim, nclass, droupout=0.2, bias=False) -> None:
