@@ -1,4 +1,4 @@
-# Graph Convolutional Networks (GCN) in PyTorch
+# Graph Convolutional Networks (GCN) in PyTorch 
 - This is an implementation of **Graph Convolutional Networks (GCNs)** for node classification on the **Cora citation dataset**.
 -----
 
